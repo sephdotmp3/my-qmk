@@ -1,0 +1,3 @@
+[submodule "modules/OpenRGBDevelopers"]
+	path = modules/OpenRGBDevelopers
+	url = https://gitlab.com/OpenRGBDevelopers/QMK-OpenRGB
