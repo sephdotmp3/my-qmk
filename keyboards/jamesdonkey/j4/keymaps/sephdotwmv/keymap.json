@@ -88,8 +88,8 @@
             "KC_LALT",
             "KC_SPC",
             "KC_RALT",
-            "MO(_FN)",
-            "MO(_MEH_ISH)",
+            "MO(1)",
+            "MO(2)",
             "KC_RCTL",
             "KC_LEFT",
             "KC_DOWN",
@@ -273,5 +273,31 @@
             "MEH(KC_DOWN)",
             "MEH(KC_RGHT)"
         ]
+    ],
+    "keycodes": [
+        {
+            "key": "KC_TASK"
+        },
+        {
+            "key": "KC_FILE"
+        },
+        {
+            "key": "KC_CTANA"
+        },
+        {
+            "key": "BT_HST1"
+        },
+        {
+            "key": "BT_HST2"
+        },
+        {
+            "key": "BT_HST3"
+        },
+        {
+            "key": "P2P4G"
+        },
+        {
+            "key": "BAT_LVL"
+        }
     ]
 }
